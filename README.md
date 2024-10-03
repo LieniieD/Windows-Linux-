@@ -54,7 +54,7 @@
 | **Scripting**                    | Shell scripting with .sh files         | PowerShell scripts (.ps1) or batch files (.bat) |
 
 
-##Conclusion
+## Conclusion
 - Linux Terminal is powerful for scripting, automation, and system administration within Linux environments, supporting a variety of shells and tools.
 - Windows Terminal is a modern interface for executing various command-line tools in Windows, offering customization, multi-session capabilities, and support for different shells.
 
@@ -110,7 +110,7 @@
 | **Доступ до файлової системи**   | Використовує єдину структуру           | Використовує літери дисків            |
 | **Скриптування**                | Скрипти оболонки .sh                   | Скрипти PowerShell (.ps1)            |
 
-##Висновок
+## Висновок
 - Linux Terminal є потужним інструментом для створення сценаріїв, автоматизації та системного адміністрування в середовищах Linux, підтримуючи різноманітні оболонки та інструменти.
 - Термінал Windows — це сучасний інтерфейс для виконання різноманітних інструментів командного рядка в Windows, який пропонує налаштування, багатосеансові можливості та підтримку різних оболонок.
 
