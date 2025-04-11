@@ -1,4 +1,4 @@
-# Windows-Linux
+# Windows-Linux-MacOS
 
 # Comparison of Linux Terminal and Windows Terminal
 
